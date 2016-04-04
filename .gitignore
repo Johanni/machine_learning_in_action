@@ -10,3 +10,7 @@
 .idea/modules.xml
 
 .idea/workspace.xml
+
+kNN/testDigits/0_0.txt
+
+*.txt
